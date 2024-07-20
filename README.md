@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- - 👨‍💻 All of my projects are available at [https://github.com/shanishaju]
+- - 👨‍💻 All of my projects are available at https://github.com/shanishaju
 - 💬 Ask me about **ME(A)RN**
 
 - 📫 How to reach me **shanishaju2024@gmail.com**
