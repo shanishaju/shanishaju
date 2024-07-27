@@ -5,7 +5,7 @@
  -->
 
 - 🔭 I’m currently working on **Full Stack Project**
--  👨‍💻 All of my projects are available at https://github.com/shanishaju
+-  👨‍💻 All of my projects are available at [https://github.com/shanishaju](https://github.com/shanishaju?tab=repositories)
 - 💬 Ask me about **ME(A)RN**
 
 - 📫 How to reach me **shanishaju2024@gmail.com**
